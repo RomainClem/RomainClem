@@ -1,4 +1,4 @@
-<a href="https://www.romainclemencon.com/" alt="racoon"> <img align="right" width="300px" src="./assets/racoon-round.png" /> <a/>
+<a href="https://www.romainclemencon.com/" alt="racoon"> <img align="right" width="200px" src="./assets/racoon-round.png" /> <a/>
 
 ## Hey I'm Romain!
 
