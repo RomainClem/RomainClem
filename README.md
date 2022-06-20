@@ -1,4 +1,4 @@
-<img align="right" width="500px" src="./assets/racoon.png" />
+<img align="right" width="250px" src="./assets/racoon.png" />
 
 ## Hey I'm Romain!
 
