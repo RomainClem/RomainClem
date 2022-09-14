@@ -3,7 +3,7 @@
 ## Hey I'm Romain!
 
 
-I'm a 4th year Software Engineer student doing a Bachelor of Science (Honours) at MTU Cork, and a Software Engineer intern for Trellix.
+I'm a 4th year Software Engineer student doing a Bachelor of Science (Honours) at MTU Cork.
 
 > More info > [romainclemencon.com](https://www.romainclemencon.com/ "romainclemencon.com")
 
