@@ -11,4 +11,6 @@ I'm a 4th year Software Engineer student doing a Bachelor of Science (Honours) a
 
 > <a href="https://www.linkedin.com/in/romainclemencon/" alt="LinkedIn"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/> @ [in/romainclemencon](https://www.linkedin.com/in/romainclemencon/ "in/romainclemencon")
 
- ![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomainClem&count_private=true&include_all_commits=true)
+ [![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomainClem&count_private=true&include_all_commits=true)]
+<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
