@@ -3,7 +3,7 @@
 ## Hey I'm Romain!
 
 
-Software Engineer for Huawei and 4th year student doing a Bachelor of Science (Honours) at MTU Cork.
+Software Engineer for Bank of America and recently graduated of a Bachelor of Science (Honours) at MTU Cork.
 
 > More info > [romainclemencon.com](https://www.romainclemencon.com/ "romainclemencon.com")
 
