@@ -3,7 +3,7 @@
 ## Hey I'm Romain!
 
 
-Software Engineer for Novo Nordisk and graduate of a Bachelor of Science (Honours) in Software Engineering at MTU Cork.
+Software Engineer for Novo Nordisk and graduate of a Bachelor of Science (Honours) in Software Development at MTU Cork.
 
 > More info > [romainclemencon.com](https://www.romainclemencon.com/ "romainclemencon.com")
 
