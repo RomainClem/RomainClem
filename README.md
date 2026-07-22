@@ -1,9 +1,6 @@
-<a href="https://www.romain.dk/" alt="racoon"> <img align="right" width="250px" src="./assets/racoon-round.png" /> <a/>
-
 ## Hey I'm Romain!
 
-
-Software Engineer for Novo Nordisk and graduate of a Bachelor of Science (Honours) in Software Development at MTU Cork.
+I'm a Software Engineer for Novo Nordisk Engineering in Copenhagen. I'm currently digitalizing engineering tools and working on AI. 
 
 > More info > [romain.dk](https://www.romain.dk/ "romain.dk")
 
