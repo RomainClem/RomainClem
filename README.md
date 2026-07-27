@@ -1,6 +1,6 @@
 ## Hey I'm Romain!
 
-I'm a Software Engineer for Novo Nordisk Engineering in Copenhagen. I'm currently digitalizing engineering tools and working on AI. 
+I'm a Software Engineer for Novo Nordisk Engineering in Copenhagen. Currently digitalizing engineering tools and working on AI. 
 
 > More info > [romain.dk](https://www.romain.dk/ "romain.dk")
 
